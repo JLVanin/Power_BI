@@ -1,4 +1,4 @@
-### Analisando Dados com meu Primeiro Projeto no Power BI
+### Analisando Dados no Power BI
 
 Esse desafio visa treinar a habilidade de criação de visuais.
 
