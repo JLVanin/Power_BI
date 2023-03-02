@@ -40,6 +40,9 @@
 
 14. Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir.
 
+![Imagem1](https://user-images.githubusercontent.com/104107851/222308128-692ac795-a2b5-4392-9bbf-07620512be35.png)
+![Imagem2](https://user-images.githubusercontent.com/104107851/222308167-1290ecc5-cb16-4faf-b8e2-6ed2d1ef9110.png)
+
 15. Agrupe os dados a fim de saber quantos colaboradores existem por gerente
 
 16. Elimine as colunas desnecessárias, que não serão usadas no relatório, de cada tabela
