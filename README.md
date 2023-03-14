@@ -1,5 +1,35 @@
 ## Formação Power BI Analyst
 
-Mergulhe no mundo de Análise de Dados de BI aplicada com Power BI. A principal habilidade de um(a) profissional de dados está relacionada com a capacidade de transmitir os seus resultados de forma assertiva e clara. Aprenda a executar todo o processo de ETL com a ferramenta de BI mais utilizada do mercado e assim apresentar relatórios e dashboards mais eficientes, organizados e superelegantes sem perder performance e desempenho.
+### Fundamentos de Análise de Dados e BI 
+- Fundamentos de Business Intelligence (BI)
+- Introdução a Análise de Dados com SQL
+- Fundamentos de ETL
+- Primeiros Passos com Power BI
+- Analisando Dados com meu Primeiro Projeto no Power BI
 
-Durante a Formação, você irá mergulhar na criação de visualizações personalizadas e na utilização de recursos avançados com IA, além de aprender a coletar e transformar os dados utilizando os diversos recursos do Power BI. Além disso, a Formação possui conteúdos sobre a integração com diferentes sistemas e modelagem de dados. E tudo isso com diversos projetos práticos sendo desenvolvidos durante a jornada, englobando todo o fluxo de análise de dados. Sendo assim, com seu projeto em mãos gerencie e publique seus relatórios e workspaces com Power BI.
+### Visualização de Dados e Relatórios com Power BI
+- Trabalhando com Visuais no Power BI
+- Fundamentos de BI: KPIs e Métricas
+- Criando Dashboard Interativos com Power BI
+
+### Processamento de Dados com Power BI
+- Coleta e Extração de Dados com Power BI
+- Limpeza e Transformação de Dados com Power BI
+
+### Modelagem de Dados com Power BI
+- Fundamentos de Modelagem Dimensional
+- Modelagem de Dados no Power BI
+- Primeiros passos com DAX e Cálculos com Power BI
+- Otimização de Modelo de Dados com Foco em Desempenho
+no Power BI
+
+### Data Analytics & Storytelling com Power BI
+- Relatórios & Experiência do Usuário no Power BI
+- Explorando Recursos para criar Storytelling dos dados com
+Power B
+- Fundamentos de Data Analytics com Power BI
+
+### Gerenciamento de Workspaces e Datasets com Power BI
+- Gerenciamento de Workspaces com Power BI
+- Gerenciamento de Datasets com Power BI
+
