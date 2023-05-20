@@ -20,13 +20,11 @@
 - Fundamentos de Modelagem Dimensional
 - Modelagem de Dados no Power BI
 - Primeiros passos com DAX e Cálculos com Power BI
-- Otimização de Modelo de Dados com Foco em Desempenho
-no Power BI
+- Otimização de Modelo de Dados com Foco em Desempenho no Power BI
 
 ### Data Analytics & Storytelling com Power BI
 - Relatórios & Experiência do Usuário no Power BI
-- Explorando Recursos para criar Storytelling dos dados com
-Power B
+- Explorando Recursos para criar Storytelling dos dados com Power BI
 - Fundamentos de Data Analytics com Power BI
 
 ### Gerenciamento de Workspaces e Datasets com Power BI
